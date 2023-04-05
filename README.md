@@ -29,7 +29,7 @@ Silakan berkontribusi pada repository ini dengan melakukan pull request. Segala 
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah apache License. Silakan lihat berkas [LICENSE] untuk lebih detail.
+Proyek ini dilisensikan di bawah apache License. Silakan lihat berkas [LICENSE](https://github.com/kgswhy/NodeJS-WebServer/blob/main/LICENSE) untuk lebih detail.
 
 ## Kontak
 
