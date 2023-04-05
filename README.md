@@ -1,11 +1,10 @@
 # Exercise Node.js Web Server
 
-Ini adalah repository untuk proyek latihan web server menggunakan Node.js. Proyek ini bertujuan untuk mempelajari cara membuat web server sederhana menggunakan Node.js dan Express.js.
+Ini adalah repository untuk proyek latihan web server menggunakan Node.js. Proyek ini bertujuan untuk mempelajari cara membuat web server sederhana menggunakan Node.js.
 
 ## Teknologi yang Digunakan
 
 - Node.js
-- Express.js
 
 ## Cara Menggunakan Proyek Ini
 
@@ -22,7 +21,7 @@ npm install
 ```
 npm start
 ```
-4. Buka browser Anda dan akses http://localhost:3000 untuk melihat tampilan web server.
+4. Buka browser Anda dan akses http://localhost:5000 untuk melihat tampilan web server.
 
 ## Kontribusi
 
